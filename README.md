@@ -14,4 +14,4 @@
 
 Мы сделаем просто так что-бы из множество OBJ случайные vertex числа из одного OBJ перемешивались случайно на случайные позиции другого OBJ и тоже самое с faces.
 
-[Mutator OBJ on Babylon.js! (Version 3) | Babylon.js Playground](https://playground.babylonjs.com/#SRS95R#1)
+[Mutator OBJ on Babylon.js! (Version 3) | Babylon.js Playground](https://playground.babylonjs.com/#SRS95R#2)
